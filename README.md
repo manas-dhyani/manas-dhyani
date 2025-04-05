@@ -10,7 +10,7 @@
 - ⚡ Fun fact: There are around 9000 different programming languages in the world.
 -->
 
-<h3 align="center">I'm a passionate Full Stack Developer from Delhi, India</h3>
+<h3 align="center">I'm a Computer Science Student from Delhi, India</h3>
 
 <h3 align="left">My Bio:</h3>
 
